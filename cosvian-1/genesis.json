@@ -1,8 +1,8 @@
 {
   "app_name": "cosviand",
   "app_version": "list-9d9e410c",
-  "genesis_time": "2025-09-29T02:31:23.207324Z",
-  "chain_id": "cosvian-1",
+  "genesis_time": "2025-10-01T08:57:30.246593Z",
+  "chain_id": "cosvian",
   "initial_height": 1,
   "app_hash": null,
   "app_state": {
@@ -19,91 +19,91 @@
       "accounts": [
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "csv1n4palfu2gysxpr8kwh36myfqqjur448wjt66up",
+          "address": "csv18u9wyjaar2vtzyj059yhj0dgw3ufnks6ff457w",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "csv1dryq5srslapf639hfp2rmlxx6x9mff5nufsyck",
+          "address": "csv10dc8x306pm9ecnvvmzn4wtnvv30d6qe4q8rwsc",
           "pub_key": null,
           "account_number": "1",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "csv17rej5wkepxque88ycsqd5funw7rqtas8c6ge9v",
+          "address": "csv1eutc33ytkul5vkv7v9uea8zle5glrfzm3rprdc",
           "pub_key": null,
           "account_number": "2",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "csv1e93xjqvpxy8gu5t9xm4nxnxt09fc2l09y39hlp",
+          "address": "csv1dkxqxj5talv5sw5aa4k9ytzdtzanft9s5f2ds2",
           "pub_key": null,
           "account_number": "3",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "csv1p7ate6uf2pg3phaq377fdmhpdxv0sc2aqx3gyn",
+          "address": "csv10e8742e4rtt338ze99k9377kvtfvvrr5czj7cc",
           "pub_key": null,
           "account_number": "4",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "csv1qg7vsyjdhrsust38eqlhj42v7uyngpz4sycd39",
+          "address": "csv1pqjyflhjrjcmrrka5tqtyteap2r47w58a0m9zu",
           "pub_key": null,
           "account_number": "5",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "csv1c3twgd9fqk5cwqygss9py6kwnvtwq2zl2xql8n",
+          "address": "csv1fstdjqxchxpmqay5jz6l24my977ku9pgzqvv2m",
           "pub_key": null,
           "account_number": "6",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "csv1g86asf39a8nzw5rqzcm2yxmuugvkp8xc5ug836",
+          "address": "csv1328p9aqtmg7lx3dzrnyc63q0gk5x3j8qztq08g",
           "pub_key": null,
           "account_number": "7",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "csv1zcv93ag57tvwxn7cr96wpwp322nqglqacv50wn",
+          "address": "csv145fjlh6q5nwmp66tx70wh0ey2mm3m8mw4ge96x",
           "pub_key": null,
           "account_number": "8",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "csv1msfslgl2p6sucx6d00ntlk0k2y24nghf2nlmxk",
+          "address": "csv19tp279lj7dl7d43sv59eqxcz334lgmpj5eus7m",
           "pub_key": null,
           "account_number": "9",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "csv1rfy9av2arc4eu0fmhsnnp5z2de560fmahh8zf2",
+          "address": "csv1rpzl0mn2y77gupg7elffharu004as0z5txe2nf",
           "pub_key": null,
           "account_number": "10",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "csv18tycqycaxn80c3tcxdkxcqzfs5key3kjvn35c2",
+          "address": "csv1g9cfauqvje6wu2hckknfmzykh9eele2qr2cr55",
           "pub_key": null,
           "account_number": "11",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "csv1f80thl6dd7dxyvkxln6w0nlg5jtpunjzxjk46y",
+          "address": "csv10mmk9hs0pe8v4ncqjkdz5khepq0q0vzdpr8p7r",
           "pub_key": null,
           "account_number": "12",
           "sequence": "0"
@@ -120,7 +120,7 @@
       },
       "balances": [
         {
-          "address": "csv1qg7vsyjdhrsust38eqlhj42v7uyngpz4sycd39",
+          "address": "csv1pqjyflhjrjcmrrka5tqtyteap2r47w58a0m9zu",
           "coins": [
             {
               "denom": "ucsv",
@@ -129,25 +129,7 @@
           ]
         },
         {
-          "address": "csv1p7ate6uf2pg3phaq377fdmhpdxv0sc2aqx3gyn",
-          "coins": [
-            {
-              "denom": "ucsv",
-              "amount": "6000000000000"
-            }
-          ]
-        },
-        {
-          "address": "csv1zcv93ag57tvwxn7cr96wpwp322nqglqacv50wn",
-          "coins": [
-            {
-              "denom": "ucsv",
-              "amount": "5000000000000"
-            }
-          ]
-        },
-        {
-          "address": "csv1rfy9av2arc4eu0fmhsnnp5z2de560fmahh8zf2",
+          "address": "csv1rpzl0mn2y77gupg7elffharu004as0z5txe2nf",
           "coins": [
             {
               "denom": "ucsv",
@@ -156,65 +138,7 @@
           ]
         },
         {
-          "address": "csv18tycqycaxn80c3tcxdkxcqzfs5key3kjvn35c2",
-          "coins": [
-            {
-              "denom": "ucsv",
-              "amount": "18000000000000"
-            }
-          ]
-        },
-        {
-          "address": "csv1g86asf39a8nzw5rqzcm2yxmuugvkp8xc5ug836",
-          "coins": [
-            {
-              "denom": "ucsv",
-              "amount": "5000000000000"
-            }
-          ]
-        },
-        {
-          "address": "csv1f80thl6dd7dxyvkxln6w0nlg5jtpunjzxjk46y",
-          "coins": []
-        },
-        {
-          "address": "csv1dryq5srslapf639hfp2rmlxx6x9mff5nufsyck",
-          "coins": [
-            {
-              "denom": "ucsv",
-              "amount": "10000000000000"
-            }
-          ]
-        },
-        {
-          "address": "csv1n4palfu2gysxpr8kwh36myfqqjur448wjt66up",
-          "coins": [
-            {
-              "denom": "ucsv",
-              "amount": "25000000000000"
-            }
-          ]
-        },
-        {
-          "address": "csv1c3twgd9fqk5cwqygss9py6kwnvtwq2zl2xql8n",
-          "coins": [
-            {
-              "denom": "ucsv",
-              "amount": "5000000000000"
-            }
-          ]
-        },
-        {
-          "address": "csv1e93xjqvpxy8gu5t9xm4nxnxt09fc2l09y39hlp",
-          "coins": [
-            {
-              "denom": "ucsv",
-              "amount": "5000000000000"
-            }
-          ]
-        },
-        {
-          "address": "csv1msfslgl2p6sucx6d00ntlk0k2y24nghf2nlmxk",
+          "address": "csv19tp279lj7dl7d43sv59eqxcz334lgmpj5eus7m",
           "coins": [
             {
               "denom": "ucsv",
@@ -223,7 +147,83 @@
           ]
         },
         {
-          "address": "csv17rej5wkepxque88ycsqd5funw7rqtas8c6ge9v",
+          "address": "csv18u9wyjaar2vtzyj059yhj0dgw3ufnks6ff457w",
+          "coins": [
+            {
+              "denom": "ucsv",
+              "amount": "25000000000000"
+            }
+          ]
+        },
+        {
+          "address": "csv1g9cfauqvje6wu2hckknfmzykh9eele2qr2cr55",
+          "coins": [
+            {
+              "denom": "ucsv",
+              "amount": "18000000000000"
+            }
+          ]
+        },
+        {
+          "address": "csv1fstdjqxchxpmqay5jz6l24my977ku9pgzqvv2m",
+          "coins": [
+            {
+              "denom": "ucsv",
+              "amount": "5000000000000"
+            }
+          ]
+        },
+        {
+          "address": "csv1dkxqxj5talv5sw5aa4k9ytzdtzanft9s5f2ds2",
+          "coins": [
+            {
+              "denom": "ucsv",
+              "amount": "5000000000000"
+            }
+          ]
+        },
+        {
+          "address": "csv10dc8x306pm9ecnvvmzn4wtnvv30d6qe4q8rwsc",
+          "coins": [
+            {
+              "denom": "ucsv",
+              "amount": "10000000000000"
+            }
+          ]
+        },
+        {
+          "address": "csv10e8742e4rtt338ze99k9377kvtfvvrr5czj7cc",
+          "coins": [
+            {
+              "denom": "ucsv",
+              "amount": "6000000000000"
+            }
+          ]
+        },
+        {
+          "address": "csv10mmk9hs0pe8v4ncqjkdz5khepq0q0vzdpr8p7r",
+          "coins": []
+        },
+        {
+          "address": "csv1328p9aqtmg7lx3dzrnyc63q0gk5x3j8qztq08g",
+          "coins": [
+            {
+              "denom": "ucsv",
+              "amount": "5000000000000"
+            }
+          ]
+        },
+        {
+          "address": "csv145fjlh6q5nwmp66tx70wh0ey2mm3m8mw4ge96x",
+          "coins": [
+            {
+              "denom": "ucsv",
+              "amount": "5000000000000"
+            }
+          ]
+        },
+        {
+          "address": "csv1eutc33ytkul5vkv7v9uea8zle5glrfzm3rprdc",
           "coins": [
             {
               "denom": "ucsv",
@@ -473,10 +473,10 @@
                 },
                 "min_self_delegation": "1",
                 "delegator_address": "",
-                "validator_address": "csvvaloper1p7ate6uf2pg3phaq377fdmhpdxv0sc2azsrn34",
+                "validator_address": "csvvaloper10e8742e4rtt338ze99k9377kvtfvvrr565q9d7",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "f+aJMMknq640Sf+JcrCJQNFfcnOUcSKHUZYPaoOue9E="
+                  "key": "8jrxluwcL7x3th6mXCFYQue2OLejFvTsbg2mHkd4Yro="
                 },
                 "value": {
                   "denom": "ucsv",
@@ -484,7 +484,7 @@
                 }
               }
             ],
-            "memo": "5205d5f82d7af87caa8b2d343c7e6ecf1f16c4e6@10.142.39.146:26656",
+            "memo": "0854eac91e45d4d0199880b1ceef361d52286b5d@192.168.18.2:26656",
             "timeout_height": "0",
             "unordered": false,
             "timeout_timestamp": null,
@@ -496,7 +496,7 @@
               {
                 "public_key": {
                   "@type": "/cosmos.crypto.secp256k1.PubKey",
-                  "key": "AxKl4sye75jxA31rKmKHVnVo7RVKKrYUsh3IUMqXaYnd"
+                  "key": "Arrfo0M2VfS6km/nb0UWMK+QzwLrUWs94DBUEdWkK4EM"
                 },
                 "mode_info": {
                   "single": {
@@ -515,7 +515,7 @@
             "tip": null
           },
           "signatures": [
-            "zGLxvAIa0/XUMgNspxbVZ/6PeK+UKF1WkWAkwF43QT0RHfmq5ly4xE2CJigVHkp/F7ipGd1M44bwKGa61U4dHw=="
+            "LzDXzkyd670nfPIzqBA2cwN1BBsKLdu098Ivk77HHckQhNBt7tRjEq7UjwnM+yE+hqNRTfrgU6cHCSefXGZoxQ=="
           ]
         }
       ]
